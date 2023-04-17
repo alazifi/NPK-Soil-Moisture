@@ -8,6 +8,6 @@ RE and RE <=> D5 (DI and RE are interconnected
 RO <=> D7  
 DI <=> D2  
   
-RS485 (VCC 5VDC) <=> Sensor NPK 3 Probe (VCC 12 VDC)  
+RS485 (VCC 5 VDC) <=> Sensor NPK 3 Probe (VCC 12 VDC)  
 A <=> A  
 B <=> B  
